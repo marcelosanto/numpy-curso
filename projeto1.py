@@ -65,3 +65,4 @@ while True:
         print(f"Pontuação final: {pontuacao}")
         print(
             f"O Tesouro estava na posicao: ({tesouro_linha, tesouro_coluna})")
+        break
