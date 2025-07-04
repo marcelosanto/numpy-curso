@@ -1,79 +1,294 @@
 {
     "receitas": [
         {
-            "titulo": "Bolo de Chocolate",
-            "tempo_preparo": "45 minutos",
-            "porcoes": 8,
+            "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+            "tempo_preparo": "1 hora",
+            "porcoes": 12,
             "ingredientes": [
                 {
-                    "ingrediente": "Farinha de Trigo",
+                    "nome": "Cenoura",
+                    "quantidade": "3 unidades médias"
+                },
+                {
+                    "nome": "Óleo",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "nome": "Ovos",
+                    "quantidade": "4 unidades"
+                },
+                {
+                    "nome": "Açúcar",
                     "quantidade": "2 xícaras"
                 },
                 {
-                    "ingrediente": "Açúcar",
+                    "nome": "Farinha de trigo",
+                    "quantidade": "2 e 1/2 xícaras"
+                },
+                {
+                    "nome": "Fermento em pó",
+                    "quantidade": "1 colher de sopa"
+                },
+                {
+                    "nome": "Chocolate em pó",
                     "quantidade": "1 xícara"
                 },
                 {
-                    "ingrediente": "Ovos",
-                    "quantidade": "3 xícaras"
+                    "nome": "Manteiga",
+                    "quantidade": "2 colheres de sopa"
                 },
                 {
-                    "ingrediente": "Leite",
-                    "quantidade": "1 xícara"
+                    "nome": "Leite",
+                    "quantidade": "3 colheres de sopa"
+                }
+            ]
+        },
+        {
+            "titulo": "Frango Xadrez Simples",
+            "tempo_preparo": "35 minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "nome": "Peito de frango",
+                    "quantidade": "500g"
                 },
                 {
-                    "ingrediente": "Manteiga",
+                    "nome": "Pimentão verde",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "nome": "Pimentão vermelho",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "nome": "Pimentão amarelo",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "nome": "Cebola",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "nome": "Amendoim torrado",
                     "quantidade": "1/2 xícara"
+                },
+                {
+                    "nome": "Óleo de gergelim",
+                    "quantidade": "2 colheres de sopa"
+                },
+                {
+                    "nome": "Molho de soja (Shoyu)",
+                    "quantidade": "1 xícara"
+                }
+            ]
+        },
+        {
+            "titulo": "Pão de Queijo Mineiro",
+            "tempo_preparo": "50 minutos",
+            "porcoes": 20,
+            "ingredientes": [
+                {
+                    "nome": "Polvilho azedo",
+                    "quantidade": "500g"
+                },
+                {
+                    "nome": "Leite integral",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "nome": "Água",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "nome": "Óleo",
+                    "quantidade": "1/4 xícara"
+                },
+                {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "100g"
+                },
+                {
+                    "nome": "Ovos",
+                    "quantidade": "2 a 3 unidades"
+                },
+                {
+                    "nome": "Sal",
+                    "quantidade": "a gosto"
+                }
+            ]
+        },
+        {
+            "titulo": "Lasanha à Bolonhesa",
+            "tempo_preparo": "1 hora e 30 minutos",
+            "porcoes": 10,
+            "ingredientes": [
+                {
+                    "nome": "Massa de lasanha",
+                    "quantidade": "500g"
+                },
+                {
+                    "nome": "Carne moída",
+                    "quantidade": "500g"
+                },
+                {
+                    "nome": "Molho de tomate",
+                    "quantidade": "2 latas"
+                },
+                {
+                    "nome": "Queijo muçarela fatiado",
+                    "quantidade": "400g"
+                },
+                {
+                    "nome": "Presunto fatiado",
+                    "quantidade": "400g"
+                },
+                {
+                    "nome": "Cebola picada",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "nome": "Alho picado",
+                    "quantidade": "3 dentes"
+                },
+                {
+                    "nome": "Azeite de oliva",
+                    "quantidade": "3 colheres de sopa"
+                }
+            ]
+        },
+        {
+            "titulo": "Mousse de Maracujá Rápido",
+            "tempo_preparo": "15 minutos",
+            "porcoes": 6,
+            "ingredientes": [
+                {
+                    "nome": "Leite condensado",
+                    "quantidade": "1 lata"
+                },
+                {
+                    "nome": "Creme de leite",
+                    "quantidade": "1 lata"
+                },
+                {
+                    "nome": "Suco de maracujá concentrado",
+                    "quantidade": "a mesma medida da lata"
+                }
+            ]
+        },
+        {
+            "titulo": "Feijoada Completa",
+            "tempo_preparo": "3 horas",
+            "porcoes": 15,
+            "ingredientes": [
+                {
+                    "nome": "Feijão preto",
+                    "quantidade": "1kg"
+                },
+                {
+                    "nome": "Carne seca",
+                    "quantidade": "500g"
+                },
+                {
+                    "nome": "Lombo de porco",
+                    "quantidade": "300g"
+                },
+                {
+                    "nome": "Paio",
+                    "quantidade": "2 unidades"
+                },
+                {
+                    "nome": "Linguiça calabresa",
+                    "quantidade": "2 unidades"
+                },
+                {
+                    "nome": "Bacon",
+                    "quantidade": "200g"
+                },
+                {
+                    "nome": "Cebola",
+                    "quantidade": "2 unidades grandes"
+                },
+                {
+                    "nome": "Alho",
+                    "quantidade": "1 cabeça"
                 }
             ]
         },
         {
             "titulo": "Salada Caesar",
-            "tempo_preparo": "20 minutos",
+            "tempo_preparo": "25 minutos",
             "porcoes": 4,
             "ingredientes": [
                 {
-                    "ingrediente": "Alface romana",
-                    "quantidade": "1 cabeça"
+                    "nome": "Alface romana",
+                    "quantidade": "1 pé"
                 },
                 {
-                    "ingrediente": "Croutons",
+                    "nome": "Filé de frango grelhado",
+                    "quantidade": "300g"
+                },
+                {
+                    "nome": "Croutons",
                     "quantidade": "1 xícara"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
+                    "nome": "Queijo parmesão ralado na hora",
                     "quantidade": "1/2 xícara"
                 },
                 {
-                    "ingrediente": "Molho caesar",
-                    "quantidade": "1/4 xícara"
+                    "nome": "Maionese",
+                    "quantidade": "3 colheres de sopa"
+                },
+                {
+                    "nome": "Mostarda Dijon",
+                    "quantidade": "1 colher de chá"
+                },
+                {
+                    "nome": "Suco de limão",
+                    "quantidade": "2 colheres de sopa"
+                },
+                {
+                    "nome": "Alho",
+                    "quantidade": "1 dente"
                 }
             ]
         },
         {
-            "titulo": "Pasta ao Pesto",
-            "tempo_preparo": "30 minutos",
-            "porcoes": 2,
+            "titulo": "Risoto de Camarão",
+            "tempo_preparo": "40 minutos",
+            "porcoes": 4,
             "ingredientes": [
                 {
-                    "ingrediente": "Massa",
-                    "quantidade": "200g"
+                    "nome": "Arroz arbóreo",
+                    "quantidade": "1 e 1/2 xícara"
                 },
                 {
-                    "ingrediente": "Manjericão fresco",
+                    "nome": "Camarões limpos",
+                    "quantidade": "400g"
+                },
+                {
+                    "nome": "Vinho branco seco",
                     "quantidade": "1/2 xícara"
                 },
                 {
-                    "ingrediente": "Azeite de oliva",
-                    "quantidade": "1/3 xícara"
+                    "nome": "Caldo de legumes",
+                    "quantidade": "1 litro"
                 },
                 {
-                    "ingrediente": "Nozes",
-                    "quantidade": "1/4 xícara"
+                    "nome": "Cebola picada",
+                    "quantidade": "1/2 unidade"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
-                    "quantidade": "1/4 xícara"
+                    "nome": "Manteiga",
+                    "quantidade": "3 colheres de sopa"
+                },
+                {
+                    "nome": "Queijo parmesão ralado",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "nome": "Azeite",
+                    "quantidade": "a gosto"
                 }
             ]
         }
