@@ -753,6 +753,17 @@ files = [
 traitlets = "*"
 
 [[package]]
+name = "names"
+version = "0.3.0"
+description = "Generate random names"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "names-0.3.0.tar.gz", hash = "sha256:726e46254f2ed03f1ffb5d941dae3bc67c35123941c29becd02d48d0caa2a671"},
+]
+
+[[package]]
 name = "nest-asyncio"
 version = "1.6.0"
 description = "Patch asyncio to allow nested event loops"
@@ -1545,4 +1556,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "0e9f46ab28778dc6e9df159786089d53bbd8d37cf975b42c0d1f22c06a9c5da7"
+content-hash = "9c45def1d70449c30ea6d342562b4ea3094dddacd9ab07c60b279d0f8a3914c8"
